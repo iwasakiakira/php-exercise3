@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+/* リセットcss */
+body{
+    margin: 0;              /*外側の余白*/
+    padding: 0;             /*内側の余白*/
+    border: 0;              /*枠線の非表示*/
+    font-size: 100%;        
+vertical-align: baseline;   /*縦方向の揃え位置を指定(初期値)*/
+}
+
+h1{
+    background-color: red;
+}
+
+/* 上下左右全てに10pxの空白が設定されます｡ */
+p{
+    margin: 10px;
+}
+
+/* 1pxの黒い実線を引きます｡ */
+p{
+    /* 線の太さ 線の種類 線の色 */
+border: 1px solid black;
+}
+

@@ -1,0 +1,45 @@
+
+/* div.success-message > span{
+    font-weight: 700;
+} */
+
+div.success-message{
+    color: #3c763d;
+    background-color: #dff0d8;
+    border: #c6e9a6;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+/* div.error-message > span{
+    font-weight: 700;
+} */
+
+div.error-message{
+    color: #a94442;
+    background-color: #f2dede;
+    border: #ebccd1;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+/* div.info-message > span{
+    font-weight: 700;
+} */
+
+div.info-message{
+    color: #3a87ad;
+    background-color: #d9edf7;
+    border: #bce8f1;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+p{
+    text-align: center;
+}
+
+div span{
+    font-size: bold;
+    font-weight: 700;
+}
