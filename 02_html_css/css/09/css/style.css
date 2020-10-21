@@ -1,0 +1,25 @@
+@charset "utf-8":
+
+html{
+    font-size: 100%;
+}
+
+.container{
+    width: 700px;
+    margin: 0 auto;
+}
+
+header{
+    font-size: 1.8rem;
+    color: #00a36d;
+    font-weight: bold;
+}
+
+footer{
+    text-align: center;
+    margin-top: 20px;
+}
+
+footer a{
+    text-decoration: none;
+}
